@@ -1,5 +1,7 @@
 # Cash Machine
 
+[![Build Status](https://travis-ci.org/kevinPugliese/cash-machine-js.svg?branch=master)](https://travis-ci.org/kevinPugliese/cash-machine-js) [![Coverage Status](https://coveralls.io/repos/github/kevinPugliese/cash-machine-js/badge.svg?branch=master)](https://coveralls.io/github/kevinPugliese/cash-machine-js?branch=master)
+
 Test [Dojo](http://dojopuzzles.com/problemas/exibe/caixa-eletronico/)
 
 ## Getting Started
